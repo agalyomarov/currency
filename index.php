@@ -79,8 +79,8 @@
                                             </svg>
                                         </a>
                                         <ul id="w1" class="dropdown-menu">
-                                            <li><a href="index.htm" tabindex="-1">ru</a></li>
-                                            <li><a href="en.html" tabindex="-1">en</a></li>
+                                            <li><a href="index.php" tabindex="-1">ru</a></li>
+                                            <li><a href="en.php" tabindex="-1">en</a></li>
                                         </ul>
                                     </div>
                                 </div>
