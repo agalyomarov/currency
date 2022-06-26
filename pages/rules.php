@@ -34,7 +34,7 @@
                                 <div class="menuBtn-shadow"></div>
 
 
-                                <a class="logo" href="../index.htm"><img src="../img/logo.svg" alt="logo"></a>
+                                <a class="logo" href="../index.php"><img src="../img/logo.svg" alt="logo"></a>
                                 <div class="menu">
                                     <ul class="menu-list">
                                         <li class="menu__item">
