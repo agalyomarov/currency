@@ -96,7 +96,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="steps__form">
-                            <form id="form-step1" class="form" action="/en/create" method="post" data-pjax="">
+                            <form id="form-step1" class="form" action="/create.php" method="post" data-pjax="">
                                 <input type="hidden" name="_csrf-frontend" value="4sKumhfPWfO00QaM7b6_SZaww37pMp9L8wKvhywSgDOYiN3dZoYIq_mwVcjV5Pkt4cCbEL13_Xifb_j2T1XjZg==">
                                 <div class="course">
                                     Exchange rate <span>1 BTC = 1403074.83 RUB</span>
